@@ -1,1 +1,12 @@
+no/ntnu/oblig3/Commands/TextCommand.class
+no/ntnu/oblig3/Commands/WrapTextCommand.class
+no/ntnu/oblig3/Commands/CapitalizeSelectionTextCommand.class
 no/ntnu/oblig3/App.class
+no/ntnu/oblig3/Commands/WrapLinesTextCommand.class
+no/ntnu/oblig3/TerminalClient.class
+no/ntnu/oblig3/Commands/CapitalizeTextCommand.class
+no/ntnu/oblig3/Commands/CapitalizeWordsTextCommand.class
+no/ntnu/oblig3/Commands/ReplaceFirstTextCommand.class
+no/ntnu/oblig3/Script.class
+no/ntnu/oblig3/Commands/ReplaceTextCommand.class
+no/ntnu/oblig3/Commands/WrapSelectionTextCommand.class
